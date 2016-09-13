@@ -633,3 +633,7 @@ ul.nav-tabs {
 .nav>li>a{
     padding: 5px 15px;
 }
+
+#footer {
+    margin-top: 100%;
+}
